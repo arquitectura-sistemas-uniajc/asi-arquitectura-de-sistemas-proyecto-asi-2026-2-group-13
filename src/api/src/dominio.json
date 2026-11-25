@@ -1,0 +1,25 @@
+{
+  "grupo": 3,
+  "slug": "tiendalocal",
+  "nombre": "TiendaLocal",
+  "dominio": "Comercio electrónico para pequeños comercios",
+  "lema": "Las tiendas del barrio, con inventario que no se vende dos veces.",
+  "color": "#c2571a",
+  "recurso": {
+    "plural": "Productos",
+    "singular": "Producto",
+    "nombre": "Producto",
+    "detalle": "Tienda y precio",
+    "categoria": "Categoría",
+    "cantidad": "Unidades en stock"
+  },
+  "accion": {
+    "boton": "Comprar",
+    "plural": "Pedidos",
+    "persona": "Cliente",
+    "modo": "descontar",
+    "unico": false,
+    "anonimo": false,
+    "monto": null
+  }
+}
