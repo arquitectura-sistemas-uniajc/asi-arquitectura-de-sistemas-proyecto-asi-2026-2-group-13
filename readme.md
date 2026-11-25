@@ -6,3 +6,4 @@ Aquí guardamos la información de arquitectura de TiendaLocal.
 - `c4-nivel1-contexto-tienda-local.png`: diagrama de contexto.
 - `c4-nivel2-contenedores-tienda-local.png`: diagrama de contenedores.
 Hola mundo
+Jajajaj
